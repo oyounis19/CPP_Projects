@@ -1,0 +1,30 @@
+book: C++ how to program
+    C++ is a beautiful language.
+    It is derived from clang.
+    it's syntax is a little bit tricky, but you will understand it.
+    ok.
+    that is it.
+book: Intro to algorithms
+    1st page
+    2nd page
+    3rd page
+    4th page
+    5th page
+book: Data structures
+    data
+    structure
+    is difficult
+    i know :(
+    but
+    you got it :)
+book: Pl2
+    it is teached.
+    in college
+    in
+    1st year
+book: Math2
+	it is teached.
+    in college
+    in
+    1st year
+    also
