@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1657549529 source:e:\programming\udemy c++ course\projects\expedia\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	"expedia_flights_api.h"
+	"expedia_hotels_api.h"
+	"expedia_payments_api.h"
+	"User.h"
+	"hotels.h"
+
+1657282640 e:\programming\udemy c++ course\projects\expedia\expedia_flights_api.h
+	<vector>
+
+1657282642 e:\programming\udemy c++ course\projects\expedia\expedia_hotels_api.h
+	<vector>
+
+1657278335 e:\programming\udemy c++ course\projects\expedia\expedia_payments_api.h
+	"json.hpp"
+
+1657278335 e:\programming\udemy c++ course\projects\expedia\json.hpp
+	<cstdint>
+	<cmath>
+	<cctype>
+	<string>
+	<deque>
+	<map>
+	<type_traits>
+	<initializer_list>
+	<ostream>
+	<iostream>
+
+1657549664 source:e:\programming\udemy c++ course\projects\expedia\src\user.cpp
+	"User.h"
+	<bits/stdc++.h>
+
+1657549588 e:\programming\udemy c++ course\projects\expedia\include\user.h
+	<string>
+	<vector>
+
+1657548856 source:e:\programming\udemy c++ course\projects\expedia\src\hotels.cpp
+	"hotels.h"
+
+1657548923 e:\programming\udemy c++ course\projects\expedia\include\hotels.h
+	<vector>
+	<string>
+
+1657548856 source:e:\programming\udemy c++ course\projects\6-expedia\src\hotels.cpp
+	"hotels.h"
+
+1657576482 e:\programming\udemy c++ course\projects\6-expedia\include\hotels.h
+	<string>
+
+1657576445 source:e:\programming\udemy c++ course\projects\6-expedia\src\user.cpp
+	"User.h"
+
+1657576464 e:\programming\udemy c++ course\projects\6-expedia\include\user.h
+	<string>
+
+1657576403 source:e:\programming\udemy c++ course\projects\6-expedia\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	"User.h"
+	"hotels.h"
+
