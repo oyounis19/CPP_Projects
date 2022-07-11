@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1656798062 source:c:\users\omar\desktop\askfmoop\main.cpp
+	<vector>
+	<queue>
+	<set>
+	<map>
+	<fstream>
+	<sstream>
+	<iostream>
+	<assert.h>
+
+1656799027 source:e:\programming\udemy c++ course\projects\askfmoop\main.cpp
+	<vector>
+	<queue>
+	<set>
+	<map>
+	<fstream>
+	<sstream>
+	<iostream>
+	<assert.h>
+
+1656799027 source:e:\programming\udemy c++ course\projects\4-askfmoop\main.cpp
+	<vector>
+	<queue>
+	<set>
+	<map>
+	<fstream>
+	<sstream>
+	<iostream>
+	<assert.h>
+
