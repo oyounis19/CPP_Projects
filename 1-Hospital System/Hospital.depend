@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1655420223 source:e:\programming\udemy c++ course\projects\hospital\main.cpp
+	<iostream>
+	<stdlib.h>
+
