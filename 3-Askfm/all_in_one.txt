@@ -1,0 +1,22 @@
+Q 1031 1 oyounis ali 1 | hi ali how are you?
+A 1031 | im not fine:(
+T 1040 1031 1 oyounis ali 1 | Can you answer me aliii??
+A 1040 1031 | sorry, i was busy :(
+T 1041 1031 1 oyounis ali 1 | is it under?
+A 1041 1031 | ecexwxwexdded
+T 1044 1031 0 oyounis ali 0 | weqxdwqxzwd
+T 1051 1031 0 oyounis ali 0 | busy doing??
+Q 1032 0 oyounis alim 1 | ezaaayaak?
+A 1032 | ercfwcfedc
+Q 1033 0 oyounis alii 0 | qwlhlkdwh
+T 1050 1033 0 oyounis alii 1 | inbetween??
+A 1050 1033 | okkkkkkkkkkkkkkkkkkkkkk
+Q 1036 0 oyounis ali 1 | Is this working Ali?
+A 1036 | no i don't think so:(
+T 1038 1036 0 oyounis ali 0 | do you think it is going to work?
+T 1043 1036 1 oyounis ali 0 | gedxfe
+T 1045 1036 1 oyounis ali 0 | wedcexece
+T 1046 1036 0 oyounis ali 1 |  last one?
+A 1046 1036 | yes it is the last one
+T 1052 1036 0 oyounis ali 1 |  hello?
+A 1052 1036 | okk

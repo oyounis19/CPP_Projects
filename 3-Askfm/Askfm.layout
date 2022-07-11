@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Release" />
+	<File name="main.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="19225" topLine="53" />
+		</Cursor>
+		<Folding>
+			<Collapse line="29" />
+			<Collapse line="35" />
+			<Collapse line="88" />
+			<Collapse line="95" />
+			<Collapse line="109" />
+			<Collapse line="148" />
+			<Collapse line="174" />
+			<Collapse line="205" />
+			<Collapse line="224" />
+			<Collapse line="237" />
+			<Collapse line="256" />
+			<Collapse line="320" />
+			<Collapse line="379" />
+			<Collapse line="434" />
+			<Collapse line="447" />
+			<Collapse line="484" />
+			<Collapse line="523" />
+			<Collapse line="551" />
+			<Collapse line="581" />
+			<Collapse line="641" />
+			<Collapse line="714" />
+			<Collapse line="786" />
+		</Folding>
+	</File>
+	<File name="all_in_one.txt" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="842" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="ID.txt" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="users.txt" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="244" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
