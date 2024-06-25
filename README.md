@@ -42,6 +42,6 @@ Contributions are welcome! If you've found a typo, want to add more content, or 
 
 ## 🌟 Acknowledgments
 
-Special thanks to Mostafa Saad for providing these amazing course!
+Special thanks to Mostafa Saad for providing this amazing course!
 
 Happy learning! 🚀
